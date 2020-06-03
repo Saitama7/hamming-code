@@ -1,0 +1,19 @@
+body {
+  padding: 15px
+}
+
+.title {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  vertical-align: middle;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
