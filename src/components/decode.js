@@ -93,7 +93,7 @@ export default function FormControlLabelPlacement({code}) {
       {mistakeIndex && (
         <>
           <h2>{mistakeIndex.binary} = {mistakeIndex.digit}</h2>
-          <h2>Ошибка в {mistakeIndex.digit} индексе</h2>
+          <h2>Ошибка в {mistakeIndex.digit} индексе </h2>
         </>
       )}
     </>
